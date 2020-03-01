@@ -1,0 +1,2 @@
+rootProject.name='ReplicaMilliyet'
+include ':app'
